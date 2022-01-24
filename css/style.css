@@ -1,0 +1,23 @@
+/*css*/
+body{
+    font-family: arial,helvetica;
+  }
+  nav{
+    margin-left:-3rem
+  }
+   li {
+    border: 3px solid black;
+     width:15rem;
+    background-color: red;
+   margin-bottom:1rem;
+     list-style-type:none;
+     text-align:center;
+     padding-top:0;
+      
+  }
+  a{
+     text-decoration:none;
+    font-size:2rem;
+    color:white;
+    border:2px dotted black;
+  }
